@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопрос 4.1: Одиночный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 4 - Вопрос 4.1</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>В чем заключается основная задача продуктового управления (product management) в отличие от проектного?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильный ответ: В управлении жизненным циклом продукта, его развитием и рыночным успехом.</p>]]></text>
+        </generalfeedback>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>В управлении жизненным циклом продукта, его развитием и рыночным успехом.</text>
+        </answer>
+        <answer fraction="0">
+            <text>В управлении временем, бюджетом и ресурсами для создания продукта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>В управлении командой разработчиков.</text>
+        </answer>
+        <answer fraction="0">
+            <text>В управлении рисками и изменениями в процессе разработки.</text>
+        </answer>
+        <answer fraction="0">
+            <text>В управлении поставками и контрактами.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 4.2: Множественный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 4 - Вопрос 4.2</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие элементы включает в себя «Тройное ограничение» проекта? (Выберите все верные ответы)</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: Содержание (Scope); Время (Time); Стоимость (Cost).</p>]]></text>
+        </generalfeedback>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Содержание (Scope).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Время (Time).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Стоимость (Cost).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Качество (Quality).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление рисками (Risk).</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 4.3: Сопоставление -->
+    <question type="match">
+        <name>
+            <text>Группа 4 - Вопрос 4.3</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите тип управления с его ключевым вопросом.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: 1-А, 2-Б, 3-В, 4-Г.</p>]]></text>
+        </generalfeedback>
+        <subquestion format="html">
+            <text>1. Проектное управление (Project Management)</text>
+            <answer>
+                <text>А. «Делаем ли мы это правильно?» (соблюдение бюджета, сроков, плана)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>2. Продуктовое управление (Product Management)</text>
+            <answer>
+                <text>Б. «Делаем ли мы правильные вещи?» (соответствие рынку, потребностям пользователей, стратегии)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>3. Стратегическое управление</text>
+            <answer>
+                <text>В. «Почему мы это делаем?» (соответствие общим бизнес-целям организации)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>4. Управление качеством</text>
+            <answer>
+                <text>Г. «Как мы это делаем?» (следование стандартам и процессам)</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 4.4: Упорядочивание -->
+    <question type="ordering">
+        <name>
+            <text>Группа 4 - Вопрос 4.4</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите этапы жизненного цикла продукта в правильной последовательности.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильная последовательность: 1. Внедрение (Introduction); 2. Рост (Growth); 3. Зрелость (Maturity); 4. Спад (Decline).</p>]]></text>
+        </generalfeedback>
+        <answer fraction="100">
+            <text>Внедрение (Introduction).</text>
+            <answer fraction="100">
+                <text>Рост (Growth).</text>
+                <answer fraction="100">
+                    <text>Зрелость (Maturity).</text>
+                    <answer fraction="100">
+                        <text>Спад (Decline).</text>
+                    </answer>
+                </answer>
+            </answer>
+        </answer>
+    </question>
+</quiz>
