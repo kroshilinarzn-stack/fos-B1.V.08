@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопрос 5.1: Одиночный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 5 - Вопрос 5.1</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какое ограничение в проекте относится к категории «external constraints» (внешние ограничения)?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильный ответ: Изменение налогового законодательства в стране реализации проекта.</p>]]></text>
+        </generalfeedback>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Бюджет проекта, утвержденный компанией.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Изменение налогового законодательства в стране реализации проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Квалификация команды разработчиков.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Производственные мощности компании.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Утвержденный план управления рисками.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 5.2: Множественный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 5 - Вопрос 5.2</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Что из перечисленного является типичными ограничениями в IT-проектах? (Выберите все верные ответы)</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: Утвержденный бюджет и сроки проекта; Требования заказчика к функциональности системы; Необходимость интеграции с существующими корпоративными системами.</p>]]></text>
+        </generalfeedback>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Утвержденный бюджет и сроки проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Требования заказчика к функциональности системы.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Необходимость интеграции с существующими корпоративными системами.</text>
+        </answer>
+        <answer fraction="0">
+            <text>График отпусков основных членов команды.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Уровень заработной платы на рынке труда.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 5.3: Сопоставление -->
+    <question type="match">
+        <name>
+            <text>Группа 5 - Вопрос 5.3</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите элемент проектного треугольника с примером ограничения или его управления.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: 1-А, 2-Б, 3-В, 4-Г.</p>]]></text>
+        </generalfeedback>
+        <subquestion format="html">
+            <text>1. Содержание (Scope)</text>
+            <answer>
+                <text>А. Добавление новой функции «Аналитика по чатам» в список требований.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>2. Время (Time)</text>
+            <answer>
+                <text>Б. Установление жесткой даты релиза продукта — 1 декабря.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>3. Стоимость (Cost)</text>
+            <answer>
+                <text>В. Увеличение бюджета на закупку лицензий на 15%.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>4. Качество (Quality)</text>
+            <answer>
+                <text>Г. Сокращение количества тестов для ускорения выхода на рынок.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 5.4: Упорядочивание -->
+    <question type="ordering">
+        <name>
+            <text>Группа 5 - Вопрос 5.4</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите шаги процесса управления изменениями содержания (scope) проекта в правильной последовательности.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильная последовательность: 1. Идентификация необходимости изменения или факта его появления; 2. Оценка влияния изменения на содержание, сроки, стоимость, риски и качество; 3. Рассмотрение и одобрение запрошенного изменения (Change Control Board); 4. Внесение одобренных изменений в базовые планы проекта; 5. Документирование изменений и обновление проектной документации.</p>]]></text>
+        </generalfeedback>
+        <answer fraction="100">
+            <text>Идентификация необходимости изменения или факта его появления.</text>
+            <answer fraction="100">
+                <text>Оценка влияния изменения на содержание, сроки, стоимость, риски и качество.</text>
+                <answer fraction="100">
+                    <text>Рассмотрение и одобрение запрошенного изменения (Change Control Board).</text>
+                    <answer fraction="100">
+                        <text>Внесение одобренных изменений в базовые планы проекта.</text>
+                        <answer fraction="100">
+                            <text>Документирование изменений и обновление проектной документации.</text>
+                        </answer>
+                    </answer>
+                </answer>
+            </answer>
+        </answer>
+    </question>
+</quiz>

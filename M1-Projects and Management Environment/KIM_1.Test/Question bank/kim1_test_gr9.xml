@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопрос 9.1: Одиночный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 9 - Вопрос 9.1</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какой из перечисленных процессов относится к группе процессов инициации?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильный ответ: Разработка Устава проекта.</p>]]></text>
+        </generalfeedback>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Разработка плана управления проектом.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка Устава проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Руководство и управление исполнением проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Закрытие проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление рисками.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 9.2: Множественный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 9 - Вопрос 9.2</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие процессы входят в группу процессов планирования (Planning)? (Выберите все верные ответы)</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: Определение содержания проекта; Создание иерархической структуры работ (WBS); Разработка расписания проекта.</p>]]></text>
+        </generalfeedback>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Определение содержания проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Создание иерархической структуры работ (WBS).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка расписания проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Набор команды проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление изменениями.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 9.3: Сопоставление -->
+    <question type="match">
+        <name>
+            <text>Группа 9 - Вопрос 9.3</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите группу процессов управления проектом с примером процесса из этой группы.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: 1-Г, 2-А, 3-В, 4-Б.</p>]]></text>
+        </generalfeedback>
+        <subquestion format="html">
+            <text>1. Процессы инициации</text>
+            <answer>
+                <text>Г. Разработка Устава проекта (Develop project charter).</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>2. Процессы планирования</text>
+            <answer>
+                <text>А. Создание иерархической структуры работ (WBS).</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>3. Процессы исполнения</text>
+            <answer>
+                <text>В. Набор команды проекта (Acquire project team).</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>4. Процессы мониторинга и управления</text>
+            <answer>
+                <text>Б. Отчетность по исполнению (Reporting performance).</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 9.4: Упорядочивание -->
+    <question type="ordering">
+        <name>
+            <text>Группа 9 - Вопрос 9.4</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите процессы управления стоимостью в правильной последовательности.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильная последовательность: 1. Планирование стоимости (Plan Cost Management); 2. Стоимостная оценка (Estimate Costs); 3. Разработка бюджета расходов (Determine Budget); 4. Управление стоимостью (Control Costs).</p>]]></text>
+        </generalfeedback>
+        <answer fraction="100">
+            <text>Планирование стоимости (Plan Cost Management).</text>
+            <answer fraction="100">
+                <text>Стоимостная оценка (Estimate Costs).</text>
+                <answer fraction="100">
+                    <text>Разработка бюджета расходов (Determine Budget).</text>
+                    <answer fraction="100">
+                        <text>Управление стоимостью (Control Costs).</text>
+                    </answer>
+                </answer>
+            </answer>
+        </answer>
+    </question>
+</quiz>
