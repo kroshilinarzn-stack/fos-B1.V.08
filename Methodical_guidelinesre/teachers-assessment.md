@@ -28,7 +28,7 @@
 | KIM_1_Test | `kim_1_test_recom.md` | `kim_1_test_mark.md` |
 | KIM_1_Esse | `kim_1_esse_recom.md` | `kim_1_esse_mark.md` |
 | **Модуль 2. Управление содержанием проекта** | | |
-| KIM_2_Test | `kim_2_test_prompt.md` | `kim_2_test_mark.md` |
+| KIM_2_Test | `kim_2_test_recom.md` | `kim_2_test_mark.md` |
 | KIM_2_Lab | `kim_2_lab_recom.md` | `kim_2_lab_mark.md` |
 | KIM_2_Pract | `kim_2_pract_recom.md` | `kim_2_pract_mark.md` |
 | **Модуль 3. Управление человеческими ресурсами проекта (команда)** | | |
