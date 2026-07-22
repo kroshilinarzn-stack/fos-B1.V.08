@@ -11,7 +11,7 @@
 
 ## Состав
 
-- [Question_bank](Question_bank/) --- содержит xml-файлы со списками тестовых вопросов, разделенные на 10 групп (kim_1.1_gr1.xml-kim_1.1_gr10.xml);
+- [Question_bank](Question_bank/) --- содержит xml-файлы со списками тестовых вопросов, разделенные на 10 групп (kim1.test_gr1.xml-kim1.test_gr10.xml);
 - [kim_1_test_prompt.md](kim_1_test_prompt.md) --- промпт для генерации тестовых вопросов;
 - [kim_1_test_task.md](kim_1_test_task.md) --- описание формирования и настройки теста; процедуры тестирования и оценки результатов;
 - [kim_1_test_mark.md](kim_1_test_mark.md) --- критерии оценивания;
