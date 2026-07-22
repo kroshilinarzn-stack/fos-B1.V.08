@@ -12,7 +12,7 @@
 - **[kim_3_lab_mark.md](kim_3_lab_mark.md)** — критерии оценивания;
 - **[kim_3_lab_template.md](kim_3_lab_template.md)** — шаблон отчёта обучающегося;
 - **[kim_3_lab_recom.md](kim_3_lab_recom.md)** — методические указания для преподавателя;
-- **[kim_2_lab_var.md](kim_2_lab_var.md)** — варианты индивидуализации задания.
+- **[kim_2_lab_var.md](kim_3_lab_var.md)** — варианты индивидуализации задания.
 
 ## Источник содержания
 
