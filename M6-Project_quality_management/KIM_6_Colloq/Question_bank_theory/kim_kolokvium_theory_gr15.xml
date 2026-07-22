@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 15 (Модуль 6): Качество и метрики AI-продукта -->
+    <question type="essay">
+        <name>
+            <text>Группа 15 (Модуль 6) — Теория 1: Дрейф данных (data drift)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Дрейф данных (data drift)».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Изменение статистических свойств входных данных модели с течением времени, приводящее к снижению качества её работы.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Изменение статистических свойств входных данных модели с течением времени, приводящее к снижению качества её работы.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+    <question type="essay">
+        <name>
+            <text>Группа 15 (Модуль 6) — Теория 2: Дрейф модели (model drift)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Дрейф модели (model drift)».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Постепенное снижение качества предсказаний модели с течением времени вследствие изменения взаимосвязей между входными данными и целевой переменной.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Постепенное снижение качества предсказаний модели с течением времени вследствие изменения взаимосвязей между входными данными и целевой переменной.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>

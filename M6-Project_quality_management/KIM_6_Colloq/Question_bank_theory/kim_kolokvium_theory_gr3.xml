@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 3 (Модуль 2): Целеполагание и декомпозиция в проектах -->
+    <question type="essay">
+        <name>
+            <text>Группа 3 (Модуль 2) — Теория 1: Иерархическая структура работ (WBS)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Иерархическая структура работ (WBS)».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Иерархическая декомпозиция полного объёма работ, подлежащих выполнению командой проекта для достижения целей проекта.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Иерархическая декомпозиция полного объёма работ, подлежащих выполнению командой проекта для достижения целей проекта.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+    <question type="essay">
+        <name>
+            <text>Группа 3 (Модуль 2) — Теория 2: Impact Mapping</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Impact Mapping».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Техника стратегического планирования, связывающая бизнес-цель с действиями пользователей и результатами (deliverables), необходимыми для достижения цели.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Техника стратегического планирования, связывающая бизнес-цель с действиями пользователей и результатами (deliverables), необходимыми для достижения цели.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+    <question type="essay">
+        <name>
+            <text>Группа 3 (Модуль 2) — Теория 3: User Story Mapping</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «User Story Mapping».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Техника визуализации пользовательского пути и связанных с ним функций продукта, используемая для определения приоритетов разработки.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Техника визуализации пользовательского пути и связанных с ним функций продукта, используемая для определения приоритетов разработки.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
