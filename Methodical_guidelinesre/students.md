@@ -63,10 +63,10 @@
 | Элемент дисциплины | Шаблон для выполнения | Критерии оценивания |
 |---|---|---|
 | **Модуль 1. Проекты и среда управления** | | |
-| KIM_1_Test | `kim_1_test_template.md` | `kim_1_test_mark.md` |
+| KIM_1_Test |  | `kim_1_test_mark.md` |
 | KIM_1_Esse | `kim_1_esse_template.md` | `kim_1_esse_mark.md` |
 | **Модуль 2. Управление содержанием проекта** | | |
-| KIM_2_Test | `kim_2_test_template.md` | `kim_2_test_mark.md` |
+| KIM_2_Test |  | `kim_2_test_mark.md` |
 | KIM_2_Lab | `kim_2_lab_template.md` | `kim_2_lab_mark.md` |
 | KIM_2_Pract | `kim_2_pract_template.md` | `kim_2_pract_mark.md` |
 | **Модуль 3. Управление человеческими ресурсами проекта (команда)** | | |
@@ -80,7 +80,7 @@
 | KIM_5_Pract | `kim_5_pract_template.md` | `kim_5_pract_mark.md` |
 | **Модуль 6. Управление качеством проекта** | | |
 | KIM_6_Lab | `kim_6_lab_template.md` | `kim_6_lab_mark.md` |
-| KIM_6_Colloq | `kim_6_colloq_template.md` | `kim_6_colloq_mark.md` |
+| KIM_6_Colloq |  | `kim_6_colloq_mark.md` |
 | **Модуль 7. Управление рисками и взаимодействием в проекте** | | |
 | KIM_7_Lab | `kim_7_lab_template.md` | `kim_7_lab_mark.md` |
 | KIM_7_Pract | `kim_7_pract_template.md` | `kim_7_pract_mark.md` |
