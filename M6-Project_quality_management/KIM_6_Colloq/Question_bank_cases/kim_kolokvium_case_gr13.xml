@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 13 (Модуль 5): Бюджетирование и контроль стоимости AI-проектов -->
+    <question type="essay">
+        <name>
+            <text>Группа 13 (Модуль 5) — Кейс 1: Бюджетирование и контроль стоимости AI-проектов</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Опишите особенности бюджетирования и контроля стоимости AI-проекта в условиях итеративной разработки модели, когда объём необходимых доработок заранее не полностью известен.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Указаны риски применения классического EVM к итеративной разработке; предложены способы адаптации бюджетирования.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Указаны риски применения классического EVM к итеративной разработке; предложены способы адаптации бюджетирования.</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
