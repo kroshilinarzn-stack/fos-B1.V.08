@@ -76,7 +76,6 @@
 | KIM_4_Lab | `kim_4_lab_template.md` | `kim_4_lab_mark.md` |
 | KIM_4_Pract | `kim_4_pract_template.md` | `kim_4_pract_mark.md` |
 | **Модуль 5. Управление стоимостью проекта** | | |
-| KIM_5_Lab | `kim_5_lab_template.md` | `kim_5_lab_mark.md` |
 | KIM_5_Pract | `kim_5_pract_template.md` | `kim_5_pract_mark.md` |
 | **Модуль 6. Управление качеством проекта** | | |
 | KIM_6_Lab | `kim_6_lab_template.md` | `kim_6_lab_mark.md` |
