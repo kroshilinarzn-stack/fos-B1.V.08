@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 1: Основы определения целей. Концепции MBO и SMART -->
+
+    <!-- Вопрос 1.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 1.1. Основы MBO и SMART (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Что из перечисленного является КЛЮЧЕВЫМ отличием управления по целям (MBO) от традиционного подхода к управлению?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Управление по целям фокусируется на контроле текущих операций, а не на будущих результатах.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Управление по целям предполагает совместную постановку целей и их каскадирование по всей организации.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление по целям полностью заменяет необходимость в стратегическом планировании.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление по целям использует исключительно финансовые показатели для оценки эффективности.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Управление по целям не требует регулярного пересмотра и корректировки целей.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 1.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 1.2. Основы MBO и SMART (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие из перечисленных аспектов являются неотъемлемой частью процесса управления по целям (MBO) согласно материалам лекций?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Совместная постановка целей между руководителем и подчиненным.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Регулярный обзор и оценка прогресса достижения целей.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Связь результатов работы с системой вознаграждения.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Строгое иерархическое назначение целей сверху вниз без обратной связи.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Приоритет выполнения большого количества целей над достижением ключевых результатов.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 1.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 1.3. Основы MBO и SMART (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите критерий цели по методике SMART с его правильным описанием.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Specific</text>
+            <answer>
+                <text>Четкость и однозначность формулировки цели.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Measurable</text>
+            <answer>
+                <text>Наличие критериев для оценки степени достижения цели.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Achievable</text>
+            <answer>
+                <text>Реалистичность и достижимость цели с учетом ресурсов.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Relevant</text>
+            <answer>
+                <text>Соответствие цели более глобальным задачам бизнеса.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 1.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 1.4. Основы MBO и SMART (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите этапы процесса управления по целям (MBO) в правильной логической последовательности.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Определение целей организации.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Каскадирование целей на уровни подразделений и сотрудников.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка планов действий для достижения целей.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Периодический обзор прогресса и корректировка целей.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Оценка индивидуального вклада в достижение общих целей.</text>
+        </answer>
+    </question>
+</quiz>
