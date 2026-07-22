@@ -8,11 +8,11 @@
 
 ## Состав
 
-- **kim_2_Pract_task.md** — полный текст КИМ для обучающихся;
-- **kim_2_Pract_mark.md** — критерии оценивания;
-- **kim_2_Pract_template.md** — шаблон отчёта обучающегося;
-- **kim_2_Pract_recom.md** — методические указания для преподавателя;
-- **kim_2_Pract_var.md** — варианты индивидуализации задания.
+- **[kim_2_pract_task.md](kim_2_pract_task.md)** — полный текст КИМ для обучающихся;
+- **[kim_2_pract_mark.md](kim_2_pract_mark.md)** — критерии оценивания;
+- **[kim_2_pract_template.md](kim_2_pract_template.md)** — шаблон отчёта обучающегося;
+- **[kim_2_pract_recom.md](kim_2_pract_recom.md)** — методические указания для преподавателя;
+- **[kim_2_pract_var.md](kim_2_pract_var.md)** — варианты индивидуализации задания.
 
 ## Источник содержания
 
