@@ -4,11 +4,11 @@
 
 ## Состав
 
-- `kim_4_practice_task.md` — полный текст практического занятия для обучающихся;
-- `kim_4_practice_rubric.md` — критерии оценивания и шкала 4/6/8/10;
-- `kim_4_practice_student_report_template.md` — шаблон отчёта обучающегося;
-- `kim_4_practice_teacher_notes.md` — методические указания для преподавателя;
-- `kim_4_practice_variants.md` — варианты индивидуализации и усложнения задания.
+- **[kim_4_pract_task.md](kim_4_pract_task.md)** — полный текст КИМ для обучающихся;
+- **[kim_4_pract_mark.md](kim_4_pract_mark.md)** — критерии оценивания;
+- **[kim_4_lpract_template.md](kim_4_pract_template.md)** — шаблон отчёта обучающегося;
+- **[kim_4_pract_recom.md](kim_4_pract_recom.md)** — методические указания для преподавателя;
+- **[kim_4_pract_var.md](kim_4_pract_var.md)** — варианты индивидуализации задания.
 
 ## Источник содержания
 
