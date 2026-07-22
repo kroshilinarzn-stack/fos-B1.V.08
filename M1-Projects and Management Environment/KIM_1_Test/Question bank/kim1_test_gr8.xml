@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопрос 8.1: Одиночный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 8 - Вопрос 8.1</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>В каком типе организационной структуры менеджер проекта имеет наибольшие полномочия и контроль над бюджетом?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильный ответ: Проектная.</p>]]></text>
+        </generalfeedback>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Функциональная.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Слабая матричная.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Сбалансированная матричная.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Сильная матричная.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Проектная.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 8.2: Множественный выбор -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 8 - Вопрос 8.2</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие роли являются ключевыми в проектной организации согласно PMBOK? (Выберите все верные ответы)</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: Менеджер проекта; Спонсор (Sponsor); Команда проекта; Заказчик (Customer).</p>]]></text>
+        </generalfeedback>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Менеджер проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Спонсор (Sponsor).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Команда проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Заказчик (Customer).</text>
+        </answer>
+        <answer fraction="0">
+            <text>HR-менеджер.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 8.3: Сопоставление -->
+    <question type="match">
+        <name>
+            <text>Группа 8 - Вопрос 8.3</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите роль в проекте с основной функцией.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильные ответы: 1-А, 2-Б, 3-В, 4-Г.</p>]]></text>
+        </generalfeedback>
+        <subquestion format="html">
+            <text>1. Спонсор (Sponsor)</text>
+            <answer>
+                <text>А. Лицо, обеспечивающее финансовую и административную поддержку проекта и являющееся его главным «защитником».</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>2. Менеджер проекта (Project Manager)</text>
+            <answer>
+                <text>Б. Лицо, ответственное за управление проектом, включая планирование, организацию и контроль, для достижения целей проекта.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>3. Заказчик / Пользователь (Customer / User)</text>
+            <answer>
+                <text>В. Лицо или организация, которые будут использовать продукт, созданный в результате проекта.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>4. Руководитель функционального подразделения</text>
+            <answer>
+                <text>Г. Лицо, отвечающее за выполнение работ силами своего подразделения и предоставление ресурсов для проекта.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 8.4: Упорядочивание -->
+    <question type="ordering">
+        <name>
+            <text>Группа 8 - Вопрос 8.4</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите типы матричных организаций в порядке возрастания полномочий менеджера проекта.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Правильная последовательность: 1. Слабая матричная; 2. Сбалансированная матричная; 3. Сильная матричная.</p>]]></text>
+        </generalfeedback>
+        <answer fraction="100">
+            <text>Слабая матричная.</text>
+            <answer fraction="100">
+                <text>Сбалансированная матричная.</text>
+                <answer fraction="100">
+                    <text>Сильная матричная.</text>
+                </answer>
+            </answer>
+        </answer>
+    </question>
+</quiz>
