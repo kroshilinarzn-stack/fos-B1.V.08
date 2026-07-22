@@ -1,4 +1,4 @@
-# Ким1.1. Промпт
+# Ким_1_Test. Промпт
 
 **Ссылка на диалог в DeepSeek:**  
 <https://chat.deepseek.com/share/8usphv7tc559dglzb6>
