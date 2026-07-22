@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 10: Применение знаний в контексте AI-проекта -->
+
+    <!-- Вопрос 10.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 10.1. Применение в AI (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>При планировании сложного проекта по внедрению системы компьютерного зрения, какая техника будет НАИБОЛЕЕ уместна для документирования и формализации целей проекта?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Диаграмма Ганта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Устав проекта (Project Charter), как основополагающий документ.</text>
+        </answer>
+        <answer fraction="0">
+            <text>WBS.</text>
+        </answer>
+        <answer fraction="0">
+            <text>User Story Map.</text>
+        </answer>
+        <answer fraction="0">
+            <text>SWOT-анализ.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 10.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 10.2. Применение в AI (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>При разработке системы ИИ для прогнозирования спроса, какие действия помогут формализовать бизнес-цели и требования к данным?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Проведение сессий Impact Mapping с участием бизнес-спонсора и DS-команды.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка User Stories для ключевых задач (e.g., "Как аналитик, я хочу видеть прогноз на месяц вперед, чтобы оптимизировать закупки").</text>
+        </answer>
+        <answer fraction="100">
+            <text>Декомпозиция работ по разработке пайплайна данных и моделей в WBS.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Немедленное написание кода для модели без предварительного планирования.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Только сбор данных для модели, без понимания бизнес-контекста.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 10.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 10.3. Применение в AI (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите типичную проблему AI-проекта с наиболее эффективным способом ее предотвращения или решения на этапе планирования содержания.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Модель работает хорошо, но не решает бизнес-задачу.</text>
+            <answer>
+                <text>Применение Impact Mapping для связи технических результатов с бизнес-целями.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Команда разрабатывает функции, которые не нужны пользователям.</text>
+            <answer>
+                <text>Приоритизация User Stories для фокуса на MVP и реальных потребностях.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Сложно оценить бюджет и сроки из-за неясного объема работ.</text>
+            <answer>
+                <text>Детальная декомпозиция работ в WBS до уровня отдельных задач.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Конечные пользователи не понимают, как работать с AI-системой.</text>
+            <answer>
+                <text>Вовлечение пользователей на этапе создания User Story Map и прототипирования.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 10.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 10.4. Применение в AI (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Вы руководите проектом по созданию системы распознавания эмоций в речи для call-центра. Расположите ваши действия по планированию содержания в правильной последовательности.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Сформулировать бизнес-цель в Уставе проекта (снижение количества эскалаций клиентов на 15%).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Нарисовать Impact Map, чтобы определить, как поведение оператора должно измениться.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Создать User Story Map, чтобы определить, какой функционал будет в MVP (например, подсказка оператору в реальном времени).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработать WBS, включающую задачи по сбору аудиоданных, их разметке, обучению модели ASR и классификатора эмоций.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Провести SWOT-анализ, чтобы учесть риски (например, шум в канале связи) и возможности (использование предобученных моделей).</text>
+        </answer>
+    </question>
+</quiz>

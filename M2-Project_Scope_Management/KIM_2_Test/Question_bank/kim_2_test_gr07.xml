@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 7: Устав AI-проекта. Назначение и структура -->
+
+    <!-- Вопрос 7.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 7.1. Устав AI-проекта (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какова основная цель разработки Устава проекта (Project Charter) в AI-проекте?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Детальное техническое проектирование системы.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Формальная авторизация проекта и наделение менеджера проекта полномочиями.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Создание рабочего прототипа (MVP) для демонстрации спонсору.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Оценка точной стоимости всех вычислительных ресурсов.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Найм команды разработчиков и инженеров данных.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 7.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 7.2. Устав AI-проекта (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие из перечисленных разделов ОБЯЗАТЕЛЬНО должны входить в Устав AI-проекта?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Бизнес-цели и обоснование проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Высокоуровневое описание содержания и требований.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Предварительный бюджет и сроки (ключевые вехи).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Детальная архитектура нейронной сети.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Список всех используемых библиотек и фреймворков.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 7.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 7.3. Устав AI-проекта (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите раздел Устава проекта с его кратким содержанием.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Бизнес-обоснование (Business Case)</text>
+            <answer>
+                <text>Причина создания проекта, ожидаемые выгоды для бизнеса.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Содержание проекта (Scope)</text>
+            <answer>
+                <text>Высокоуровневое описание того, что будет создано, а что НЕ будет создано.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Ключевые участники (Key Stakeholders)</text>
+            <answer>
+                <text>Кто является инициатором, спонсором, заказчиком и менеджером проекта.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Расписание (Schedule)</text>
+            <answer>
+                <text>Основные этапы, вехи и даты завершения.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 7.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 7.4. Устав AI-проекта (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите ключевые этапы процесса разработки и утверждения Устава AI-проекта.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Инициация процесса и формирование бизнес-обоснования.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Определение бизнес-целей и ключевых требований к AI-системе.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Назначение менеджера проекта и предварительное формирование команды.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка черновика Устава.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Согласование и утверждение Устава спонсором и заказчиком.</text>
+        </answer>
+    </question>
+</quiz>

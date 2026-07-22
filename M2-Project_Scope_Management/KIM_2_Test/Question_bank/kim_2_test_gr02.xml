@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 2: Инструменты визуализации целей и путей клиента. CJM & Impact Mapping -->
+
+    <!-- Вопрос 2.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 2.1. CJM и Impact Mapping (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какова основная цель создания Customer Journey Map (CJM) при управлении проектом?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Визуализировать внутреннюю структуру команды проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Спроектировать и улучшить опыт взаимодействия пользователя с продуктом на всех этапах.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Отобразить все функциональные требования к системе в виде блок-схемы.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Оценить стоимость разработки каждой функции продукта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Составить список всех стейкхолдеров проекта и их интересов.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 2.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 2.2. CJM и Impact Mapping (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие элементы ОБЯЗАТЕЛЬНО должны быть отражены на Impact Map для успешного планирования содержания проекта?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Бизнес-цель, которую мы хотим достичь.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Конкретные действия, которые повлияют на поведение стейкхолдеров.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Исполнители (actors) из числа стейкхолдеров, чьи действия критичны.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Диаграмма Ганта с временными рамками для всех задач.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Технические спецификации программного обеспечения.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 2.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 2.3. CJM и Impact Mapping (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите этапы Customer Journey Map с их описанием.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Осознание (Awareness)</text>
+            <answer>
+                <text>Пользователь впервые сталкивается с проблемой или брендом.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Рассмотрение (Consideration)</text>
+            <answer>
+                <text>Пользователь активно ищет информацию и сравнивает решения.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Принятие решения (Decision/Purchase)</text>
+            <answer>
+                <text>Пользователь совершает целевое действие (покупку, регистрацию).</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Взаимодействие и удержание (Engagement & Retention)</text>
+            <answer>
+                <text>Пользователь уже использует продукт, формирует лояльность.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 2.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 2.4. CJM и Impact Mapping (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите шаги создания Impact Map в правильной последовательности, начиная с самого первого.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Определить бизнес-цель.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Выделить исполнителей (actors), которые могут влиять на достижение цели.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Определить влияния (impacts) – как должен измениться behavior исполнителей.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Определить результаты (deliverables) – что мы можем сделать, чтобы это влияние произошло.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Составить план действий.</text>
+        </answer>
+    </question>
+</quiz>

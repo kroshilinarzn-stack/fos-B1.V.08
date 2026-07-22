@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 8: Анализ стейкхолдеров AI-проекта -->
+
+    <!-- Вопрос 8.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 8.1. Анализ стейкхолдеров (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какой метод НАИБОЛЕЕ эффективен для визуализации и анализа стейкхолдеров проекта по степени их влияния и заинтересованности?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Устав проекта (Project Charter).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Иерархическая структура работ (WBS).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Диаграмма Ганта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Матрица "Влияние/Интерес".</text>
+        </answer>
+        <answer fraction="0">
+            <text>User Story Map.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 8.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 8.2. Анализ стейкхолдеров (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие группы стейкхолдеров являются критическими для успеха AI-проекта?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Бизнес-спонсор и топ-менеджмент, заинтересованные в окупаемости инвестиций.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Конечные пользователи AI-системы, чья работа изменится.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Инженеры данных и ML-инженеры, разрабатывающие и поддерживающие систему.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Регулирующие органы (в зависимости от области применения ИИ).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Все вышеперечисленные.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 8.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 8.3. Анализ стейкхолдеров (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите тип стейкхолдера с его основной ролью в AI-проекте.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Спонсор (Sponsor)</text>
+            <answer>
+                <text>Обеспечивает финансирование и принимает ключевые стратегические решения.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Менеджер проекта (Project Manager)</text>
+            <answer>
+                <text>Управляет командой, отслеживает прогресс и отвечает за достижение целей.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Владелец продукта (Product Owner)</text>
+            <answer>
+                <text>Определяет требования к продукту с точки зрения бизнеса и пользователей.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Data Scientist / ML-инженер</text>
+            <answer>
+                <text>Разрабатывает модели, алгоритмы и пайплайны обработки данных.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 8.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 8.4. Анализ стейкхолдеров (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите шаги процесса анализа заинтересованных сторон проекта (Stakeholder Analysis).</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Идентификация всех стейкхолдеров проекта.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Анализ интересов, потребностей и ожиданий каждого стейкхолдера.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Оценка влияния и степени вовлеченности каждого стейкхолдера.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разработка стратегии взаимодействия и коммуникации с каждой группой стейкхолдеров.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Реализация коммуникационной стратегии и мониторинг изменений в позиции стейкхолдеров.</text>
+        </answer>
+    </question>
+</quiz>

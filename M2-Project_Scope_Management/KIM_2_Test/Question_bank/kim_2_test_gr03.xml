@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 3: Управление пользовательскими историями. User Story Mapping (USM) -->
+
+    <!-- Вопрос 3.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 3.1. User Story Mapping (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Для чего используется техника User Story Mapping (USM) в IT-проектах?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Для составления детального финансового плана проекта.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Для подбора персонала в команду разработки.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Для визуализации всего пользовательского опыта и определения минимально жизнеспособного продукта (MVP).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Для управления рисками и составления плана реагирования на них.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Для формального утверждения устава проекта спонсором.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 3.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 3.2. User Story Mapping (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие элементы составляют структуру карты пользовательских историй (User Story Map)?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>"Walk along the beach" – последовательность шагов пользователя.</text>
+        </answer>
+        <answer fraction="100">
+            <text>"Activities" – крупные задачи, которые пользователь хочет выполнить.</text>
+        </answer>
+        <answer fraction="100">
+            <text>"User Stories" – детальные требования, расположенные под шагами.</text>
+        </answer>
+        <answer fraction="0">
+            <text>"Sprints" – разделы, обозначающие временные отрезки разработки.</text>
+        </answer>
+        <answer fraction="0">
+            <text>"Budgets" – стоимость каждой пользовательской истории.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 3.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 3.3. User Story Mapping (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите термин с его определением в контексте User Story Mapping.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>User Story</text>
+            <answer>
+                <text>Краткое описание функциональности с точки зрения пользователя.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>MVP (Minimum Viable Product)</text>
+            <answer>
+                <text>Набор историй, которые входят в первый релиз и решают ключевые проблемы.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Backbone</text>
+            <answer>
+                <text>Последовательность крупных действий пользователя, которые формируют скелет карты.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Release</text>
+            <answer>
+                <text>Группа пользовательских историй, объединенная для сдачи в рамках одной итерации.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 3.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 3.4. User Story Mapping (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите шаги создания User Story Map в логической последовательности.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Определить "скелет" карты — крупные шаги и активности пользователя.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Разбить каждый шаг на детальные пользовательские истории.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Провести приоритизацию историй по важности.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Сгруппировать истории в релизы.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Определить MVP, выбрав истории для первого релиза.</text>
+        </answer>
+    </question>
+</quiz>

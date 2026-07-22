@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 5: Анализ внешней и внутренней среды. Техника SWOT-анализа -->
+
+    <!-- Вопрос 5.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 5.1. SWOT-анализ (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какая составляющая SWOT-анализа относится к внутренней среде проекта и описывает негативные факторы, которые могут помешать его реализации?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Возможности (Opportunities).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Угрозы (Threats).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Сильные стороны (Strengths).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Слабые стороны (Weaknesses).</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 5.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 5.2. SWOT-анализ (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие элементы анализа являются частью внешней среды в рамках SWOT-анализа?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Возможности (Opportunities).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Угрозы (Threats).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Сильные стороны (Strengths).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Слабые стороны (Weaknesses).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Ресурсы (Resources).</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 5.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 5.3. SWOT-анализ (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите примеры факторов с соответствующими категориями SWOT-анализа.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Наличие у команды опыта разработки на PyTorch.</text>
+            <answer>
+                <text>Сильная сторона (Strengths)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Отсутствие размеченных данных для обучения модели.</text>
+            <answer>
+                <text>Слабая сторона (Weaknesses)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Ужесточение законодательства в области обработки персональных данных.</text>
+            <answer>
+                <text>Угроза (Threats)</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Появление дешевых и эффективных GPU на рынке.</text>
+            <answer>
+                <text>Возможность (Opportunities)</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 5.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 5.4. SWOT-анализ (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите шаги проведения SWOT-анализа проекта в правильной последовательности.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Определить цель анализа и фокус (например, запуск нового AI-продукта).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Собрать команду экспертов для идентификации факторов.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Провести мозговой штурм для выявления сильных и слабых сторон, возможностей и угроз.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Структурировать полученные данные и внести их в матрицу SWOT.</text>
+        </answer>
+        <answer fraction="100">
+            <text>На основе анализа разработать стратегии для использования сильных сторон и возможностей, а также для минимизации слабых сторон и угроз.</text>
+        </answer>
+    </question>
+</quiz>

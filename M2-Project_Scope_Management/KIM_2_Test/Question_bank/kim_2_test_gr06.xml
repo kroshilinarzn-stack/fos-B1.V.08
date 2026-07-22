@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 6: Методология улучшения процессов. Концепция «Шесть сигм» (Six Sigma) -->
+
+    <!-- Вопрос 6.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 6.1. Шесть сигм (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Что является ЦЕЛЬЮ методологии "Шесть сигм"?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Полное устранение всех ошибок и дефектов в процессе.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Снижение вариативности (разброса) процесса до уровня, где количество дефектов не превышает 3,4 на миллион операций.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Создание инновационных продуктов с использованием новейших технологий.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Увеличение скорости выполнения операций в 10 раз.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Снижение численности персонала для оптимизации затрат.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 6.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 6.2. Шесть сигм (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие инструменты и подходы ассоциируются с концепцией "Шесть сигм"?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Цикл DMAIC (Define, Measure, Analyze, Improve, Control).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Фокус на измеряемых метриках и данных.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Снижение вариативности бизнес-процессов.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Только внедрение новых информационных систем.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Обязательное привлечение внешних консультантов на всех этапах.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 6.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 6.3. Шесть сигм (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите этап цикла DMAIC с его описанием.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Define (Определение)</text>
+            <answer>
+                <text>Четкое определение целей, границ и требований к процессу.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Measure (Измерение)</text>
+            <answer>
+                <text>Измерение текущих показателей процесса для сбора базовых данных.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Analyze (Анализ)</text>
+            <answer>
+                <text>Анализ данных для выявления корневых причин дефектов.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Improve (Улучшение)</text>
+            <answer>
+                <text>Разработка и внедрение решений для устранения корневых причин.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 6.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 6.4. Шесть сигм (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите этапы цикла DMAIC в правильной логической последовательности.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Define (Определить).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Measure (Измерить).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Analyze (Проанализировать).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Improve (Улучшить).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Control (Контролировать).</text>
+        </answer>
+    </question>
+</quiz>

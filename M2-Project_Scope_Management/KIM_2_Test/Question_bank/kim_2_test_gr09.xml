@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 9: Интеграция инструментов для определения содержания. Impact Mapping, USM и WBS -->
+
+    <!-- Вопрос 9.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 9.1. Интеграция инструментов (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какой инструмент лучше всего подходит для визуализации причинно-следственных связей между бизнес-целью, поведением стейкхолдеров и функциональными результатами проекта?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>WBS.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Impact Mapping.</text>
+        </answer>
+        <answer fraction="0">
+            <text>User Story Mapping.</text>
+        </answer>
+        <answer fraction="0">
+            <text>SWOT-анализ.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Диаграмма Ганта.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 9.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 9.2. Интеграция инструментов (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие инструменты являются взаимодополняющими и могут использоваться последовательно для перехода от бизнес-целей к детальному планированию работ?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Impact Mapping (для связи целей с поведением пользователей).</text>
+        </answer>
+        <answer fraction="100">
+            <text>User Story Mapping (для структурирования пользовательского опыта и требований).</text>
+        </answer>
+        <answer fraction="100">
+            <text>WBS (для декомпозиции работ и управления содержанием).</text>
+        </answer>
+        <answer fraction="0">
+            <text>SWOT-анализ (только для анализа рисков).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Шесть Сигм (для улучшения процессов).</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 9.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 9.3. Интеграция инструментов (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите инструмент управления содержанием с его основной областью применения.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Impact Mapping</text>
+            <answer>
+                <text>Увязка бизнес-целей, поведения пользователей и функциональности продукта.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>User Story Mapping</text>
+            <answer>
+                <text>Планирование пользовательского опыта, определение MVP и приоритизация релизов.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>WBS</text>
+            <answer>
+                <text>Структурирование и классификация всех задач проекта по иерархическому принципу.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>SWOT-анализ</text>
+            <answer>
+                <text>Анализ сильных и слабых сторон, а также внешних возможностей и угроз.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 9.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 9.4. Интеграция инструментов (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите инструменты в порядке их использования при переходе от стратегических целей к детальному плану работ.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Impact Mapping (Связать бизнес-цели с поведением стейкхолдеров).</text>
+        </answer>
+        <answer fraction="100">
+            <text>User Story Mapping (Создать карту пользовательского опыта и определить MVP).</text>
+        </answer>
+        <answer fraction="100">
+            <text>WBS (Декомпозировать работы для точной оценки и планирования).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Методы оценки (Оценить трудоемкость и стоимость пакетов работ).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Календарное планирование (Составить график работ на основе WBS и оценок).</text>
+        </answer>
+    </question>
+</quiz>

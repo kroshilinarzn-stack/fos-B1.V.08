@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Вопросы Группы 4: Структурирование содержания проекта. WBS и её виды -->
+
+    <!-- Вопрос 4.1 (Одиночный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 4.1. WBS (одиночный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Что из себя представляет WBS (Work Breakdown Structure) в управлении проектами?</p>]]></text>
+        </questiontext>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="0">
+            <text>Перечень всех членов команды проекта и их ролей.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Иерархическое разбиение содержания проекта на более мелкие, управляемые компоненты.</text>
+        </answer>
+        <answer fraction="0">
+            <text>График выполнения работ с указанием дат начала и окончания.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Финансовый план с распределением бюджета по статьям расходов.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Список всех рисков и планов мероприятий по их снижению.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 4.2 (Множественный выбор) -->
+    <question type="multichoice">
+        <name>
+            <text>Группа 4.2. WBS (множественный выбор)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие из перечисленных подходов могут быть использованы для построения WBS?</p>]]></text>
+        </questiontext>
+        <single>false</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answer fraction="100">
+            <text>Декомпозиция по фазам жизненного цикла продукта (анализ, проектирование, разработка, тестирование, внедрение).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Декомпозиция по основным компонентам (модулям) продукта (например, для веб-приложения: бекенд, фронтенд, база данных, инфраструктура).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Декомпозиция по организационной структуре подразделений, выполняющих работы.</text>
+        </answer>
+        <answer fraction="0">
+            <text>Декомпозиция по датам завершения контрольных точек (вех).</text>
+        </answer>
+        <answer fraction="0">
+            <text>Декомпозиция по росту бюджета проекта.</text>
+        </answer>
+    </question>
+
+    <!-- Вопрос 4.3 (Сопоставление) -->
+    <question type="match">
+        <name>
+            <text>Группа 4.3. WBS (сопоставление)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Соотнесите термин с его описанием в контексте WBS.</p>]]></text>
+        </questiontext>
+        <shuffleanswers>true</shuffleanswers>
+        <subquestion format="html">
+            <text>Пакет работ (Work Package)</text>
+            <answer>
+                <text>Самый нижний уровень WBS, для которого можно оценить стоимость и длительность.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Декомпозиция</text>
+            <answer>
+                <text>Процесс разбиения проектных работ и результатов на более мелкие части.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Словарь WBS</text>
+            <answer>
+                <text>Документ, содержащий детальное описание каждого элемента WBS.</text>
+            </answer>
+        </subquestion>
+        <subquestion format="html">
+            <text>Контрольный счет (Control Account)</text>
+            <answer>
+                <text>Точка управления на WBS, где объединяются данные по стоимости, расписанию и содержанию.</text>
+            </answer>
+        </subquestion>
+    </question>
+
+    <!-- Вопрос 4.4 (Упорядочивание) -->
+    <question type="ordering">
+        <name>
+            <text>Группа 4.4. WBS (упорядочивание)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Расположите уровни WBS для типового AI-проекта от самого высокого к самому низкому уровню детализации.</p>]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text>Проект по разработке AI-системы.</text>
+        </answer>
+        <answer fraction="100">
+            <text>Подпроекты / Основные Фазы (Исследование данных, Разработка моделей, Интеграция).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Компоненты / Крупные Модули (Модуль сбора данных, Модуль обучения модели).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Рабочие Пакеты / Задачи (Разработка пайплайна обработки данных, Тюнинг гиперпараметров).</text>
+        </answer>
+        <answer fraction="100">
+            <text>Активности / Действия (Написание скрипта для ETL, Запуск эксперимента по выбору оптимизатора).</text>
+        </answer>
+    </question>
+</quiz>
