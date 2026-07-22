@@ -32,23 +32,24 @@
 | KIM_2_Lab | `kim_2_lab_recom.md` | `kim_2_lab_mark.md` |
 | KIM_2_Pract | `kim_2_pract_recom.md` | `kim_2_pract_mark.md` |
 | **Модуль 3. Управление человеческими ресурсами проекта (команда)** | | |
-| KIM_3_Lab | | |
-| KIM_3_Pract | | |
+| KIM_3_Lab | `kim_3_lab_recom.md` | `kim_3_lab_mark.md` |
+| KIM_3_Pract | `kim_3_pract_recom.md` | `kim_3_pract_mark.md` |
 | **Модуль 4. Управление сроками проекта** | | |
-| KIM_4_Lab | | |
-| KIM_4_Pract | | |
+| KIM_4_Lab | `kim_4_lab_recom.md` | `kim_4_lab_mark.md` |
+| KIM_4_Pract | `kim_4_pract_recom.md` | `kim_4_pract_mark.md` |
 | **Модуль 5. Управление стоимостью проекта** | | |
-| KIM_5_Lab | | |
-| KIM_5_Pract | | |
+| KIM_5_Lab | `kim_5_lab_recom.md` | `kim_5_lab_mark.md` |
+| KIM_5_Pract | `kim_5_pract_recom.md` | `kim_5_pract_mark.md` |
 | **Модуль 6. Управление качеством проекта** | | |
-| KIM_6_Lab | | |
-| KIM_6_Colloq | | |
+| KIM_6_Lab | `kim_6_lab_recom.md` | `kim_6_lab_mark.md` |
+| KIM_6_Colloq | `kim_6_colloq_recom.md` | `kim_6_colloq_mark.md` |
 | **Модуль 7. Управление рисками и взаимодействием в проекте** | | |
-| KIM_7_Lab | | |
-| KIM_7_Pract | | |
+| KIM_7_Lab | `kim_7_lab_recom.md` | `kim_7_lab_mark.md` |
+| KIM_7_Pract | `kim_7_pract_recom.md` | `kim_7_pract_mark.md` |
 | **Модуль 8. Управление проектами в сфере искусственного интеллекта: методы, подходы, инструментарий** | | |
-| KIM_8_Lab | | |
-| KIM_8_Pract| | |
-| KIM_8_Colloq | | |
+| KIM_8_Lab | `kim_8_lab_recom.md` | `kim_8_lab_mark.md` |
+| KIM_8_Pract | `kim_8_pract_recom.md` | `kim_8_pract_mark.md` |
+| KIM_8_Colloq | `kim_8_colloq_recom.md` | `kim_8_colloq_mark.md` |
 | **Требования к выполнению, оформлению и защите сквозного проекта** | | |
-| EXAM | | |
+| EXAM | `EXAM_recom.md` | `EXAM_mark.md` |
+
