@@ -140,23 +140,7 @@
 | Преддипломная практика | LC-4 | 4.1--4.3 | П | Способен управлять процессом жизненного цикла ИИ-продукта | Промеж. | | |
 | Выполнение и защита ВКР | LC-4, LC-7 | 4.1--4.3, 7.1, 7.3 | П | Умеет планировать и осуществлять экономическое обоснование проектной части работы | Итоговая | | |
 
-## 3. Контрольно-измерительные материалы
-
-- [Модуль 1](M1-Projects%20and%20Management%20Environment/README.md)
-- [Модуль 2](M2-Project%20Scope%20Management/README.md)
-- [Модуль 3](M3-Human%20resources%20management/README.md)
-- [Модуль 4](M4-Project%20timeline%20management/README.md)
-- [Модуль 5](M5-Project%20cost%20management/README.md)
-- [Модуль 6](M6-Project%20quality%20management/README.md)
-- [Модуль 7](M7-modul/README.md)
-- [Модуль 8](M8-modul/README.md)
-- 
-- [Проектная работа](Project/README.md) — интегральный КИМ по нескольким результатам обучения;
-- [Экзамен / зачет](Exam/README.md) — промежуточная аттестация.
-
-Каждый КИМ должен содержать назначение, проверяемые результаты, условия выполнения, материалы задания, формат сдачи, критерии и шкалу оценивания, правила использования внешних ресурсов и генеративного ИИ.
-
-## 4. Итоговая оценка
+## 3. Итоговая оценка
 
 Правила суммирования баллов, минимальные пороги и перевод результата в принятую шкалу оценок приводятся в системе итогового оценивания. Таблица должна соответствовать локальным нормативным актам образовательной организации.
 
@@ -189,6 +173,30 @@
 ├── LICENSE
 └── FOS_BRIEF.md
 ```
+
+📦 fos-B1.V.08
+├── 📁 docs
+├── 📁 meta
+├── 📁 src
+├── 📁 team
+├── 📁 validation
+├── 📁 Exam
+├── 📁 M1-Projects_and_Management_Environment
+├── 📁 M2-Project_Scope_Management
+├── 📁 M3-Human_resources_management
+├── 📁 M4-Project_timeline_management
+├── 📁 M5-Project_cost_management
+├── 📁 M6-Project_quality_management
+├── 📁 M7-Project_risk
+├── 📁 M8-AI_Project_Management
+├── 📁 Methodical_guidelines
+├── 📁 RPD
+├── 📁 SR
+├── 📄 FOS_BRIEF.md
+├── 📄 LICENSE
+└── 📄 README.md
+
+
 
 ## 7. Порядок заполнения
 
