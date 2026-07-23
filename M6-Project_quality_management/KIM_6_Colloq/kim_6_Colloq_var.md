@@ -8,7 +8,7 @@
 **Формат:** прохождение в LMS Moodle по банку вопросов [Question_bank_theory](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M6-Project_quality_management//KIM_6_Colloq/Question_bank_theory) и [Question_bank_cases](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M6-Project_quality_management//KIM_6_Colloq/Question_bank_cases).
 
 
-**Описание:** обучающийся получает случайно сформированный вариант — по одному теоретическому вопросу и одному кейсу из каждого из 6 модулей (итого 12 вопросов). Ответы даются письменно в текстовом поле Moodle и проверяются преподавателем вручную по эталонам, указанным в `graderinfo`.
+**Описание:** обучающийся получает случайно сформированный вариант — по одному теоретическому вопросу и одному кейсу из каждого из 6 модулей (итого 12 вопросов). Ответы даются письменно в текстовом поле Moodle и проверяются преподавателем вручную.
 
 ---
 
