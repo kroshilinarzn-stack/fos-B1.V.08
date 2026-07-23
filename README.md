@@ -144,61 +144,39 @@
 
 Правила суммирования баллов, минимальные пороги и перевод результата в принятую шкалу оценок приводятся в системе итогового оценивания. Таблица должна соответствовать локальным нормативным актам образовательной организации.
 
-## 5. Методические материалы
+## 4. Методические материалы
 
 - [Рекомендации обучающимся](methodical-guidelines/students/README.md);
 - [Рекомендации преподавателям по оцениванию](methodical-guidelines/teachers-assessment/README.md);
 - [Рекомендации преподавателям по использованию ресурсов](methodical-guidelines/teachers-resources/README.md).
 
-  ## Структура репозитория
+## 5. Структура репозитория
 
 ```text
 .
-├── M1-Projects and Management Environment/
-├── M2-Project Scope Management/
-├── M3-Human resources management/
-├── M4-Project timeline management/
-├── M5-Project cost management/
-├── M6-Project quality management/
-├── M7-modul/
-├── M8-modul/
+├── M1-Projects_and_Management_Environment/
+├── M2-Project_Scope_Management/
+├── M3-Human_resources_management/
+├── M4-Project_timeline_management/
+├── M5-Project_cost_management/
+├── M6-Project_quality_management/
+├── M7-Project_risk/
+├── M8-AI_Project_Management/
+├── Exam/
+├── Methodical_guidelines/
 ├── RPD/
+├── SR/
 ├── docs/
 ├── meta/
 ├── src/
 ├── team/
-├── tests/
 ├── validation/
-├── README.md
+├── FOS_BRIEF.md
 ├── LICENSE
-└── FOS_BRIEF.md
+└── README.md
 ```
 
-📦 fos-B1.V.08
-├── 📁 docs
-├── 📁 meta
-├── 📁 src
-├── 📁 team
-├── 📁 validation
-├── 📁 Exam
-├── 📁 M1-Projects_and_Management_Environment
-├── 📁 M2-Project_Scope_Management
-├── 📁 M3-Human_resources_management
-├── 📁 M4-Project_timeline_management
-├── 📁 M5-Project_cost_management
-├── 📁 M6-Project_quality_management
-├── 📁 M7-Project_risk
-├── 📁 M8-AI_Project_Management
-├── 📁 Methodical_guidelines
-├── 📁 RPD
-├── 📁 SR
-├── 📄 FOS_BRIEF.md
-├── 📄 LICENSE
-└── 📄 README.md
-
-
-
-## 7. Порядок заполнения
+## 6. Порядок заполнения
 
 1. Заполните РПД и сформулируйте проверяемые результаты обучения.
 2. Выберите релевантные профессиональные роли и компетенции КРМ.
@@ -208,11 +186,11 @@
 6. Согласуйте систему итогового балла.
 7. Добавьте ресурсы, сведения о команде и лицензию.
 
-## 8. Команда
+## 7. Команда
 
 Сведения об авторах, ролях и вкладе участников размещаются в разделе [«Команда проекта»](team/README.md). Рекомендуется, чтобы участники добавляли материалы через собственные GitHub-аккаунты: история коммитов будет отражать их вклад.
 
-## 9. Лицензия
+## 8. Лицензия
 
 ## Лицензия
 
