@@ -85,7 +85,6 @@
 | KIM_7_Pract | [kim_7_pract_template.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_template.md) | [kim_7_pract_mark.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_mark.md) |
 | **Модуль 8. Управление проектами в сфере искусственного интеллекта: методы, подходы, инструментарий** | | |
 | KIM_8_Lab | [kim_8_lab_template.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_template.md) | [kim_8_lab_mark.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_mark.md) |
-| KIM_8_Pract | [kim_8_pract_template.md](/M8-AI_Project_Management/KIM_8_Pract/kim_8_pract_template.md) | [kim_8_pract_mark.md](/M8-AI_Project_Management/KIM_8_Pract/kim_8_pract_mark.md) |
 | **Итоговая аттестация** | | |
 | Экзамен (защита проекта) | [exam_example.md](/Exam/exam_example.md) | [exam_mark.md](/Exam/exam_mark.md) |
 
@@ -95,7 +94,7 @@
 
 Итоговый проект представляет собой **единый комплект проектной документации**, сформированный на основе всех выполненных лабораторных работ. Требования к его выполнению, оформлению и защите приведены в отдельном документе:
 
-📄 [Требования к выполнению, оформлению и защите сквозного проекта](ТРЕБОВАНИЯ%20К%20ВЫПОЛНЕНИЮ.docx)
+📄 [Требования к выполнению, оформлению и защите сквозного проекта](Exam/exam.md)
 
 ---
 
