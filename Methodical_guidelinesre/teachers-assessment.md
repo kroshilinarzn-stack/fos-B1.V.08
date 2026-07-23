@@ -46,8 +46,8 @@
 | KIM_7_Lab | [kim_7_lab_recom.m](/M7-Project_risk/KIM_7_Lab/kim_7_lab_recom.md) | [kim_7_lab_mark.md](/M7-Project_risk/KIM_7_Lab/kim_7_lab_mark.md) |
 | KIM_7_Pract | [kim_7_pract_recom.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_recom.md) | [kim_7_pract_mark.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_mark.md) |
 | **Модуль 8. Управление проектами в сфере искусственного интеллекта: методы, подходы, инструментарий** | | |
-| KIM_8_Lab | [kim_8_lab_recom.md](/M8-AI_Project_Management/KIM_8_Colloq/kim_8_Colloq_recom.md) | [kim_8_lab_mark.md](/M8-AI_Project_Management/KIM_8_Colloq/kim_8_Colloq_mark.md) |
-| KIM_8_Colloq | [kim_8_colloq_recom.md](/M8-AI_Project_Management/KIM_8_Colloq) | [kim_8_colloq_mark.md](/M8-AI_Project_Management/KIM_8_Colloq) |
+| KIM_8_Lab | [kim_8_lab_recom.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_recom.md) | [kim_8_lab_mark.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_mark.md) |
+| KIM_8_Colloq | [kim_8_colloq_recom.md](/M8-AI_Project_Management/KIM_8_Colloq/kim_8_Colloq_recom.md) | [kim_8_colloq_mark.md](/M8-AI_Project_Management/KIM_8_Colloq/kim_8_Colloq_mark.md) |
 | **Требования к выполнению, оформлению и защите сквозного проекта** | | |
 | EXAM | [EXAM_recom.md](/Exam/exam.md) | [EXAM_mark.md](/Exam/exam_mark.md) |
 
