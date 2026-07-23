@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- kim_8_Colloq: Группа 14 (Модуль 8): Организация работы команды при выбранной методологии -->
+    <question type="essay">
+        <name>
+            <text>kim_8_Colloq — Группа 14 (Модуль 8) — Теория 1: Контроль изменений</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Контроль изменений».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Формализованный процесс рассмотрения, согласования или отклонения предлагаемых изменений содержания, сроков, бюджета или иных параметров проекта.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Формализованный процесс рассмотрения, согласования или отклонения предлагаемых изменений содержания, сроков, бюджета или иных параметров проекта.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
