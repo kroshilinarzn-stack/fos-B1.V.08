@@ -63,8 +63,8 @@
 | Элемент дисциплины | Шаблон для выполнения | Критерии оценивания |
 |---|---|---|
 | **Модуль 1. Проекты и среда управления** | | |
-| KIM_1_Test |  | `kim_1_test_mark.md` |
-| KIM_1_Esse | `kim_1_esse_template.md` | `kim_1_esse_mark.md` |
+| KIM_1_Test |  | [kim_1_test_mark.md](/M1-Projects_and_Management_Environment/KIM_1_Test/kim_1_test_mark.md) |
+| KIM_1_Esse | [kim_1_esse_template.md](/M1-Projects_and_Management_Environment/KIM_1_Esse/kim_1_esse_template.md) | [kim_1_esse_mark.md](/M1-Projects_and_Management_Environment/KIM_1_Esse/kim_1_esse_mark.md) |
 | **Модуль 2. Управление содержанием проекта** | | |
 | KIM_2_Test |  | `kim_2_test_mark.md` |
 | KIM_2_Lab | `kim_2_lab_template.md` | `kim_2_lab_mark.md` |
