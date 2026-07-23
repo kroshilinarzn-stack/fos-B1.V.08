@@ -4,7 +4,6 @@
 
 | Раздел | Для кого | Содержание | 
 |--------|----------|------------|
-| students | обучающиеся | указания и шаблоны для выполнения, сдачи и защиты КИМ |
-| teachers-assessment | преподаватели | методические указания и оценивание КИМ |
-| teachers-resources | преподаватели | подбор и применение ресурсов при разработке КИМ |
-
+| [students](/Methodical_guidelinesre/students.md) | обучающиеся | указания и шаблоны для выполнения, сдачи и защиты КИМ |
+| [teachers-assessment](/Methodical_guidelinesre/teachers-assessment.md) | преподаватели | методические указания и оценивание КИМ |
+| [teachers-resources](/Methodical_guidelinesre/teachers-resources.md) | преподаватели | подбор и применение ресурсов при разработке КИМ |
