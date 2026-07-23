@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- kim_8_Colloq: Группа 2 (Модуль 8): Гибкие методы: Agile -->
+    <question type="essay">
+        <name>
+            <text>kim_8_Colloq — Группа 2 (Модуль 8) — Кейс 1: Гибкие методы: Agile</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Объясните, почему принцип «реагирование на изменения важнее следования плану» особенно актуален для AI-проектов по сравнению с типовыми ИТ-проектами.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Приведена содержательная связь принципа с экспериментальным характером разработки моделей и зависимостью от качества данных, а не общий пересказ манифеста.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Приведена содержательная связь принципа с экспериментальным характером разработки моделей и зависимостью от качества данных, а не общий пересказ манифеста.</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>

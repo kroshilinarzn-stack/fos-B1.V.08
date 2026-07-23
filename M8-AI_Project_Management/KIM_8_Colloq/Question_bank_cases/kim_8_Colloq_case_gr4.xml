@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- kim_8_Colloq: Группа 4 (Модуль 8): XP (Extreme Programming) -->
+    <question type="essay">
+        <name>
+            <text>kim_8_Colloq — Группа 4 (Модуль 8) — Кейс 1: XP (Extreme Programming)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Какие практики XP (например, непрерывная интеграция, тестирование) наиболее применимы к разработке ML-моделей, и какие требуют адаптации из-за специфики экспериментальной работы с данными?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Названы конкретные практики XP; для каждой показано, применяется ли она напрямую или требует адаптации (например, тестирование моделей вместо тестирования кода).</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Названы конкретные практики XP; для каждой показано, применяется ли она напрямую или требует адаптации (например, тестирование моделей вместо тестирования кода).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
