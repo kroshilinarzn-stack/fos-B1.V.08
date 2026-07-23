@@ -1,4 +1,4 @@
-# Ким_1_Test. Промпт
+# Ким 1 "Тест по теме Основы проектного управления". Промпт
 
 **Ссылка на диалог в DeepSeek:**  
 <https://chat.deepseek.com/share/8usphv7tc559dglzb6>
