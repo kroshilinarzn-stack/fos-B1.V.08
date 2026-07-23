@@ -17,7 +17,7 @@
 
 - [Question_bank_theory](Question_bank_theory/) — содержит 15 xml-файлов с теоретическими вопросами («дайте определение понятия»), разделённых на тематические подгруппы по 6 модулям (kim_kolokvium_theory_gr1.xml – kim_kolokvium_theory_gr15.xml);
 - [Question_bank_cases](Question_bank_cases/) — содержит 15 xml-файлов с проблемными ситуациями (кейсами), разделённых на тематические подгруппы по 6 модулям (kim_kolokvium_case_gr1.xml – kim_kolokvium_case_gr15.xml);
-- [kim_6_Colloq_prompt.md](kim_kolokvium_prompt.md) — промпт для генерации банка вопросов;
+- [kim_6_Colloq_prompt.md](kim_6_Colloq_prompt.md) — промпт для генерации банка вопросов;
 - [kim_6_Colloq_task.md](kim_kolokvium_task.md) — паспорт КИМ, структура банка вопросов, процедура проведения и требования к ответу;
 - [kim_6_Colloq_mark.md](kim_kolokvium_mark.md) — критерии оценивания;
 - [kim_6_Colloq_recom.md](kim_kolokvium_recom.md) — методические указания для преподавателя;
