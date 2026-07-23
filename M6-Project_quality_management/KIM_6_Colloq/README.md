@@ -20,7 +20,7 @@
 - [kim_6_Colloq_prompt.md](kim_6_Colloq_prompt.md) — промпт для генерации банка вопросов;
 - [kim_6_Colloq_task.md](kim_6_Colloq_task.md) — паспорт КИМ, структура банка вопросов, процедура проведения и требования к ответу;
 - [kim_6_Colloq_mark.md](kim_6_Colloq_mark.md) — критерии оценивания;
-- [kim_6_Colloq_recom.md](kim_kolokvium_recom.md) — методические указания для преподавателя;
+- [kim_6_Colloq_recom.md](kim_6_Colloq_recom.md) — методические указания для преподавателя;
 - [kim_6_Colloq_var.md](kim_6_Colloq_var.md) — варианты индивидуализации задания (Moodle-опрос, устное собеседование, командный разбор кейса и др.).
 
 ## Источник содержания
