@@ -76,7 +76,7 @@
 | KIM_4_Lab | [kim_4_lab_template.md](/M4-Project_timeline_management/KIM_4_Lab/kim_4_lab_template.md) | [kim_4_lab_mark.md](/M4-Project_timeline_management/KIM_4_Lab/kim_4_lab_mark.md) |
 | KIM_4_Pract | [kim_4_pract_template.md](/M4-Project_timeline_management/KIM_4_Pract/kim_4_pract_template.md) | [kim_4_pract_mark.md](/M4-Project_timeline_management/KIM_4_Pract/kim_4_pract_mark.md) |
 | **Модуль 5. Управление стоимостью проекта** | | |
-| KIM_5_Pract | `kim_5_pract_template.md` | `kim_5_pract_mark.md` |
+| KIM_5_Pract | [kim_5_pract_template.md](/M5-Project_cost_management/KIM_5_Pract/kim_5_pract_template.md) | [kim_5_pract_mark.md](/M5-Project_cost_management/KIM_5_Pract/kim_5_pract_mark.md) |
 | **Модуль 6. Управление качеством проекта** | | |
 | KIM_6_Lab | `kim_6_lab_template.md` | `kim_6_lab_mark.md` |
 | KIM_6_Colloq |  | `kim_6_colloq_mark.md` |
