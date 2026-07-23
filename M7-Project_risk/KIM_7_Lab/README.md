@@ -5,9 +5,9 @@
 
 - [kim_7_lab_task.md](kim_7_lab_task.md) — полный текст лабораторной работы для обучающихся;
 - [kim_7_lab_mark.md](kim_7_lab_mark.md) — критерии оценивания;
-- [kim_7_lab_student_report_template.md](kim_7_lab_student_report_template.md) — шаблон отчёта обучающегося;
-- [kim_7_lab_teacher_notes.md](kim_7_lab_teacher_notes.md) — методические указания для преподавателя;
-- [kim_7_lab_variants.md](kim_7_lab_variants.md) — варианты индивидуализации задания.
+- [kim_7_lab_student_report_template.md](kim_7_lab_template.md) — шаблон отчёта обучающегося;
+- [kim_7_lab_teacher_notes.md](kim_7_lab_recom.md) — методические указания для преподавателя;
+- [kim_7_lab_variants.md](kim_7_lab_var.md) — варианты индивидуализации задания.
 
 ## Источник содержания
 
