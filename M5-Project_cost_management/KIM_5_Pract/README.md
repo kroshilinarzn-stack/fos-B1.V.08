@@ -6,7 +6,7 @@
 
 - **[kim_5_pract_task.md](kim_5_pract_task.md)** — полный текст КИМ для обучающихся;
 - **[kim_5_pract_mark.md](kim_5_pract_mark.md)** — критерии оценивания;
-- **[kim_5_lpract_template.md](kim_5_pract_template.md)** — шаблон отчёта обучающегося;
+- **[kim_5_pract_template.md](kim_5_pract_template.md)** — шаблон отчёта обучающегося;
 - **[kim_5_pract_recom.md](kim_5_pract_recom.md)** — методические указания для преподавателя;
 - **[kim_5_pract_var.md](kim_5_pract_var.md)** — варианты индивидуализации задания.
 
