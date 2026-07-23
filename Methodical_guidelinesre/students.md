@@ -78,8 +78,8 @@
 | **Модуль 5. Управление стоимостью проекта** | | |
 | KIM_5_Pract | [kim_5_pract_template.md](/M5-Project_cost_management/KIM_5_Pract/kim_5_pract_template.md) | [kim_5_pract_mark.md](/M5-Project_cost_management/KIM_5_Pract/kim_5_pract_mark.md) |
 | **Модуль 6. Управление качеством проекта** | | |
-| KIM_6_Lab | `kim_6_lab_template.md` | `kim_6_lab_mark.md` |
-| KIM_6_Colloq |  | `kim_6_colloq_mark.md` |
+| KIM_6_Lab | [kim_6_lab_template.md](/M6-Project_quality_management/KIM_6_Lab/kim_6_lab_template.md) | [kim_6_lab_mark.md](/M6-Project_quality_management/KIM_6_Lab/kim_6_lab_mark.md) |
+| KIM_6_Colloq |  | [kim_6_colloq_mark.md](/M6-Project_quality_management/KIM_6_Colloq/kim_6_Colloq_mark.md) |
 | **Модуль 7. Управление рисками и взаимодействием в проекте** | | |
 | KIM_7_Lab | `kim_7_lab_template.md` | `kim_7_lab_mark.md` |
 | KIM_7_Pract | `kim_7_pract_template.md` | `kim_7_pract_mark.md` |
