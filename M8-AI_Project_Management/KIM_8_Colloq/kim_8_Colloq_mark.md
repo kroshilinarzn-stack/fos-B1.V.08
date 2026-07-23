@@ -2,7 +2,7 @@
 
 ## 1. Первичное (сырое) оценивание вопросов
 
-Стандартный вариант коллоквиума формируется из **6 подгрупп** (случайно выбранных из 15, см. [kim_8_Colloq_task.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management/kim_8_Colloq_task.md) раздел 6):
+Стандартный вариант коллоквиума формируется из **6 подгрупп** (случайно выбранных из 15, см. [kim_8_Colloq_task.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management//KIM_8_Colloq/kim_8_Colloq_task.md) раздел 6):
 
 | Тип вопроса | Количество вопросов в варианте | Балл за вопрос | Максимум |
 |---|---:|---:|---:|
