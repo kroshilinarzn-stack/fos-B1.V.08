@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- kim_7_Colloq: Группа 4 (Модуль 7): Источники рисков: рынок и контрагенты -->
+    <question type="essay">
+        <name>
+            <text>kim_7_Colloq — Группа 4 (Модуль 7) — Кейс 1: Источники рисков: рынок и контрагенты</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Поставщик размеченных данных для AI-проекта регулярно нарушает сроки поставки. Определите тип риска и предложите меры по управлению взаимодействием с этим контрагентом.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Риск корректно отнесён к рискам контрагентов; предложены конкретные меры (SLA, резервный поставщик, пересмотр графика).</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Риск корректно отнесён к рискам контрагентов; предложены конкретные меры (SLA, резервный поставщик, пересмотр графика).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>

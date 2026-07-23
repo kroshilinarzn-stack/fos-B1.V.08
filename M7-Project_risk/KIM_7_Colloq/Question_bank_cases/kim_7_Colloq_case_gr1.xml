@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- kim_7_Colloq: Группа 1 (Модуль 7): Понятие и природа риска проекта -->
+    <question type="essay">
+        <name>
+            <text>kim_7_Colloq — Группа 1 (Модуль 7) — Кейс 1: Понятие и природа риска проекта</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Объясните, чем управление известными рисками отличается от управления неизвестными рисками («unknown unknowns») в AI-проекте, и как это влияет на выбор стратегии резервирования.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Показано различие между известными и неизвестными рисками; предложены стратегии для каждого типа (управленческий резерв на непредвиденные обстоятельства и резерв на известные риски).</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Показано различие между известными и неизвестными рисками; предложены стратегии для каждого типа (управленческий резерв на непредвиденные обстоятельства и резерв на известные риски).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
