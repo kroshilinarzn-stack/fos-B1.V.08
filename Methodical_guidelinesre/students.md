@@ -70,8 +70,8 @@
 | KIM_2_Lab | [kim_2_lab_template.md](/M2-Project_Scope_Management/KIM_2_Lab/kim_2_lab_template.md) | [kim_2_lab_mark.md](/M2-Project_Scope_Management/KIM_2_Lab/kim_2_lab_mark.md) |
 | KIM_2_Pract | [kim_2_pract_template.md](/M2-Project_Scope_Management/KIM_2_Pract/kim_2_pract_template.md) | [kim_2_pract_mark.md](/M2-Project_Scope_Management/KIM_2_Pract/kim_2_pract_mark.md) |
 | **Модуль 3. Управление человеческими ресурсами проекта (команда)** | | |
-| KIM_3_Lab | `kim_3_lab_template.md` | `kim_3_lab_mark.md` |
-| KIM_3_Pract | `kim_3_pract_template.md` | `kim_3_pract_mark.md` |
+| KIM_3_Lab | [kim_3_lab_template.md](/M3-Human_resources_management/KIM_3_Lab/kim_3_lab_template.md) | [kim_3_lab_mark.md](/M3-Human_resources_management/KIM_3_Lab/kim_3_lab_mark.md) |
+| KIM_3_Pract | [kim_3_pract_template.md](/M3-Human_resources_management/KIM_3_Pract/kim_3_pract_template.md) | [kim_3_pract_mark.md](/M3-Human_resources_management/KIM_3_Pract/kim_3_pract_mark.md) |
 | **Модуль 4. Управление сроками проекта** | | |
 | KIM_4_Lab | `kim_4_lab_template.md` | `kim_4_lab_mark.md` |
 | KIM_4_Pract | `kim_4_pract_template.md` | `kim_4_pract_mark.md` |
