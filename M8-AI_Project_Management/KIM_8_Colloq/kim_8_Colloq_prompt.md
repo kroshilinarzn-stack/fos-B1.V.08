@@ -39,4 +39,4 @@
 ## Валидация
 
 - каждый сгенерированный XML-файл проверяется на корректность синтаксиса (well-formed XML) перед публикацией;
-- количество вопросов в каждой группе и подгруппе сверяется с паспортом КИМ (`kim_8_Colloq_task.md`, раздел 5).
+- количество вопросов в каждой группе и подгруппе сверяется с паспортом КИМ ([kim_8_Colloq_task.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management//KIM_8_Colloq/kim_8_Colloq_task.md), раздел 5).
