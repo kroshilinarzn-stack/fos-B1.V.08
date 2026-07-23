@@ -4,7 +4,7 @@
 
 ### Вариант A. Стандартный Moodle-опрос
 
-**Формат:** прохождение в LMS Moodle по банку вопросов [Question_bank_theory](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management//KIM_8_Colloq/Question_bank_theory) и `Question_bank_cases`.
+**Формат:** прохождение в LMS Moodle по банку вопросов [Question_bank_theory](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management//KIM_8_Colloq/Question_bank_theory) и [Question_bank_theory](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/M8-AI_Project_Management//KIM_8_Colloq/Question_bank_cases) `Question_bank_cases`.
 
 **Описание:** обучающийся получает случайно сформированный вариант — по одному теоретическому вопросу и одному кейсу из 6 случайно выбранных подгрупп модуля 8 из 15 (итого 12 вопросов). Ответы даются письменно в текстовом поле Moodle и проверяются преподавателем вручную по эталонам, указанным в `graderinfo`.
 
