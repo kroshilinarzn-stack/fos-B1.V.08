@@ -10,6 +10,6 @@
 
 | Раздел | Для кого | Содержание | Ссылка |
 | :--- | :--- | :--- | :--- |
-| students | обучающиеся | указания и шаблоны для выполнения, сдачи и защиты КИМ | [students.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/Methodical_guidelines/students.md) |
+| students | обучающиеся | указания и шаблоны для выполнения, сдачи и защиты КИМ | [students.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/main/Methodical_guidelines/students.md) |
 | teachers-assessment | преподаватели | методические указания и оценивание КИМ | [teachers-assessment.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/Methodical_guidelines/teachers-assessment.md) |
 | teachers-resources | преподаватели | подбор и применение ресурсов при разработке КИМ | [teachers-resources.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/Methodical_guidelines/teachers-resources.md) |
