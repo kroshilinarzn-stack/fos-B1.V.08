@@ -27,7 +27,7 @@
 
 ## 3. Пересчёт в БРС
 
-Вес КИМ в балльно-рейтинговой системе определяется в документе `docs/evaluation_policy.md`.
+Вес КИМ в балльно-рейтинговой системе определяется в документе  [evaluation_policy.md](https://github.com/kroshilinarzn-stack/fos-B1.V.08/blob/main/docs/evaluation_policy.md).
 
 ```text
 балл_БРС = (балл_КИМ / 10) × вес_КИМ
