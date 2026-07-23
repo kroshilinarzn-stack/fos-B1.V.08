@@ -84,6 +84,7 @@
 | KIM_7_Lab | [kim_7_lab_template.md](/M7-Project_risk/KIM_7_Lab/kim_7_lab_template.md) | [kim_7_lab_mark.md](/M7-Project_risk/KIM_7_Lab/kim_7_lab_mark.md) |
 | KIM_7_Pract | [kim_7_pract_template.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_template.md) | [kim_7_pract_mark.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_mark.md) |
 | **Модуль 8. Управление проектами в сфере искусственного интеллекта: методы, подходы, инструментарий** | | |
+| KIM_8_Colloq |  | [kim_8_Colloq_mark.md](/M8-AI_Project_Management/KIM_8_Colloq/kim_8_Colloq_mark.md) |
 | KIM_8_Lab | [kim_8_lab_template.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_template.md) | [kim_8_lab_mark.md](/M8-AI_Project_Management/KIM_8_Lab/kim_8_lab_mark.md) |
 | **Итоговая аттестация** | | |
 | Экзамен (защита проекта) | [exam_example.md](/Exam/exam_example.md) | [exam_mark.md](/Exam/exam_mark.md) |
