@@ -154,6 +154,7 @@
 
 ```text
 .
+├── Exam/
 ├── M1-Projects_and_Management_Environment/
 ├── M2-Project_Scope_Management/
 ├── M3-Human_resources_management/
@@ -162,13 +163,10 @@
 ├── M6-Project_quality_management/
 ├── M7-Project_risk/
 ├── M8-AI_Project_Management/
-├── Exam/
 ├── Methodical_guidelines/
 ├── RPD/
 ├── SR/
 ├── docs/
-├── meta/
-├── src/
 ├── team/
 ├── validation/
 ├── FOS_BRIEF.md
