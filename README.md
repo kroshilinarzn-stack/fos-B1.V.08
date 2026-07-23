@@ -146,9 +146,9 @@
 
 ## 4. Методические материалы
 
-- [Рекомендации обучающимся](methodical-guidelines/students/README.md);
-- [Рекомендации преподавателям по оцениванию](methodical-guidelines/teachers-assessment/README.md);
-- [Рекомендации преподавателям по использованию ресурсов](methodical-guidelines/teachers-resources/README.md).
+- [Рекомендации обучающимся](Methodical_guidelinesre/students.md);
+- [Рекомендации преподавателям по оцениванию](Methodical_guidelinesre/teachers-assessment.md);
+- [Рекомендации преподавателям по использованию ресурсов](Methodical_guidelinesre/teachers-resources.md).
 
 ## 5. Структура репозитория
 
