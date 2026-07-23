@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 14 (Модуль 6): Методы управления качеством и диаграмма Парето -->
+    <question type="essay">
+        <name>
+            <text>Группа 14 (Модуль 6) — Теория 1: Диаграмма Парето</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Диаграмма Парето».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Инструмент приоритизации проблем и дефектов, основанный на принципе «20% причин дают 80% проблем», представленный в виде столбчатой диаграммы с накопленной частотой.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Инструмент приоритизации проблем и дефектов, основанный на принципе «20% причин дают 80% проблем», представленный в виде столбчатой диаграммы с накопленной частотой.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+    <question type="essay">
+        <name>
+            <text>Группа 14 (Модуль 6) — Теория 2: Функционально-стоимостной анализ</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Функционально-стоимостной анализ».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Метод анализа, направленный на снижение затрат при сохранении или повышении функциональности продукта за счёт выявления избыточных функций.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Метод анализа, направленный на снижение затрат при сохранении или повышении функциональности продукта за счёт выявления избыточных функций.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>

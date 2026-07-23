@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 12 (Модуль 5): Методика освоенного объёма (EVM) -->
+    <question type="essay">
+        <name>
+            <text>Группа 12 (Модуль 5) — Кейс 1: Методика освоенного объёма (EVM)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>По проекту известны значения: PV = 500 000 руб., EV = 420 000 руб., AC = 480 000 руб. Рассчитайте отклонения по срокам (SV) и стоимости (CV), индексы SPI и CPI и дайте интерпретацию текущего состояния проекта.</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Ориентировочные критерии оценивания: Верно рассчитаны SV, CV, SPI, CPI; дана корректная интерпретация (отставание по срокам и перерасход бюджета).</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>5</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>15</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Критерии оценивания ответа: Верно рассчитаны SV, CV, SPI, CPI; дана корректная интерпретация (отставание по срокам и перерасход бюджета).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>

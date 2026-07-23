@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Группа 12 (Модуль 5): Методика освоенного объёма (EVM) -->
+    <question type="essay">
+        <name>
+            <text>Группа 12 (Модуль 5) — Теория 1: Освоенный объём (Earned Value, EV)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Освоенный объём (Earned Value, EV)».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Стоимость фактически выполненных на определённую дату работ проекта, выраженная в единицах утверждённого бюджета.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Стоимость фактически выполненных на определённую дату работ проекта, выраженная в единицах утверждённого бюджета.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+    <question type="essay">
+        <name>
+            <text>Группа 12 (Модуль 5) — Теория 2: Плановый объём (Planned Value, PV)</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Дайте определение понятия «Плановый объём (Planned Value, PV)».</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Эталонный ответ: Утверждённый бюджет, запланированный для выполнения работ проекта на определённую дату.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>2</defaultgrade>
+        <penalty>0</penalty>
+        <hidden>0</hidden>
+        <responseformat>editor</responseformat>
+        <responserequired>1</responserequired>
+        <responsefieldlines>4</responsefieldlines>
+        <attachments>0</attachments>
+        <attachmentsrequired>0</attachmentsrequired>
+        <maxbytes>0</maxbytes>
+        <filetypeslist></filetypeslist>
+        <graderinfo format="html">
+            <text><![CDATA[<p>Эталонный ответ: Утверждённый бюджет, запланированный для выполнения работ проекта на определённую дату.</p><p>Полный балл выставляется, если ответ обучающегося содержит ключевой смысл эталонного определения (дословное совпадение формулировки не требуется).</p>]]></text>
+        </graderinfo>
+        <responsetemplate format="html">
+            <text></text>
+        </responsetemplate>
+    </question>
+</quiz>
