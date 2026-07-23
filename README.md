@@ -5,7 +5,7 @@
 ## Быстрая навигация
 
 - [Рабочая программа дисциплины](RPD/README.md)
-- [Методические указания](methodical-guidelines/README.md)
+- [Методические указания](Methodical_guidelinesre/)
 - [Информационные ресурсы](resources/README.md)
 - [Команда проекта](team/README.md)
 - [Контроль качества репозитория](docs/quality-checklist.md)
