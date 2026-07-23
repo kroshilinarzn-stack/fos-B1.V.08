@@ -81,8 +81,8 @@
 | KIM_6_Lab | [kim_6_lab_template.md](/M6-Project_quality_management/KIM_6_Lab/kim_6_lab_template.md) | [kim_6_lab_mark.md](/M6-Project_quality_management/KIM_6_Lab/kim_6_lab_mark.md) |
 | KIM_6_Colloq |  | [kim_6_colloq_mark.md](/M6-Project_quality_management/KIM_6_Colloq/kim_6_Colloq_mark.md) |
 | **Модуль 7. Управление рисками и взаимодействием в проекте** | | |
-| KIM_7_Lab | `kim_7_lab_template.md` | `kim_7_lab_mark.md` |
-| KIM_7_Pract | `kim_7_pract_template.md` | `kim_7_pract_mark.md` |
+| KIM_7_Lab | [kim_7_lab_template.md](/M7-Project_risk/KIM_7_Lab/kim_7_lab_template.md) | [kim_7_lab_mark.md](/M7-Project_risk/KIM_7_Lab/kim_7_lab_mark.md) |
+| KIM_7_Pract | [kim_7_pract_template.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_template.md) | [kim_7_pract_mark.md](/M7-Project_risk/KIM_7_Pract/kim_7_pract_mark.md) |
 | **Модуль 8. Управление проектами в сфере искусственного интеллекта: методы, подходы, инструментарий** | | |
 | KIM_8_Lab | `kim_8_lab_template.md` | `kim_8_lab_mark.md` |
 | KIM_8_Pract | `kim_8_pract_template.md` | `kim_8_pract_mark.md` |
