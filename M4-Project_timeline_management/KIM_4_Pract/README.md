@@ -6,7 +6,7 @@
 
 - **[kim_4_pract_task.md](kim_4_pract_task.md)** — полный текст КИМ для обучающихся;
 - **[kim_4_pract_mark.md](kim_4_pract_mark.md)** — критерии оценивания;
-- **[kim_4_lpract_template.md](kim_4_pract_template.md)** — шаблон отчёта обучающегося;
+- **[kim_4_pract_template.md](kim_4_pract_template.md)** — шаблон отчёта обучающегося;
 - **[kim_4_pract_recom.md](kim_4_pract_recom.md)** — методические указания для преподавателя;
 - **[kim_4_pract_var.md](kim_4_pract_var.md)** — варианты индивидуализации задания.
 
