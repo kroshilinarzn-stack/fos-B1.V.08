@@ -162,7 +162,7 @@
 ├── M6-Project_quality_management/
 ├── M7-Project_risk/
 ├── M8-AI_Project_Management/
-├── Methodical_guidelines/
+├── Methodical_guidelinesre/
 ├── RPD/
 ├── SR/
 ├── docs/
