@@ -163,12 +163,12 @@
 ├── M7-Project_risk/
 ├── M8-AI_Project_Management/
 ├── Methodical_guidelinesre/
+├── Prorekvisity/
 ├── RPD/
 ├── SR/
 ├── docs/
 ├── team/
 ├── validation/
-├── FOS_BRIEF.md
 ├── LICENSE
 └── README.md
 ```
