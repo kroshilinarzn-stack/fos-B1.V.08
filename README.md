@@ -168,7 +168,7 @@
 ├── SR/
 ├── docs/
 ├── team/
-├── LICENSE
+├── LICENSE.md
 └── README.md
 ```
 
@@ -179,7 +179,7 @@
 ## 7. Лицензия
 
 Материалы репозитория распространяются на условиях лицензии
-[Creative Commons Legal Code CC0 1.0 Universal](LICENSE).
+[Creative Commons Legal Code CC0 1.0 Universal](LICENSE.md).
 
 При использовании и адаптации материалов необходимо указывать авторов
 и источник.
