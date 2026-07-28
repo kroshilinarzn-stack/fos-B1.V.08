@@ -16,23 +16,21 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.11'
         
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pytest
-        
-    - name: Сheck links
-      run: |
-        pip install pytest-check-links
-        pytest --check-links tests/ README.md
-
-    - name: Сodespell
-      run: |
-        pip install codespell
-        codespell --skip=".git,*.pyc" --ignore-words-list="ist,ot"
+        pip install pytest pytest-check-links codespell
         
     - name: Run repository structure and content tests
       run: |
-        pytest tests/ -v
+        pytest tests/ -v --tb=short
+
+    - name: Check links
+      run: |
+        pytest --check-links tests/ README.md
+
+    - name: Codespell
+      run: |
+        codespell --skip=".git,*.pyc,__pycache__,*.svg" --ignore-words-list="ist,ot"
